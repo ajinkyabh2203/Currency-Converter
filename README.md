@@ -2,6 +2,8 @@
 
 A simple and efficient currency converter built with **HTML**, **CSS**, **JavaScript**, and **APIs**.
 
+![Screenshot](view.png)
+
 ## ✨ Features
 
 - 🌐 Convert between multiple currencies
@@ -40,13 +42,9 @@ A simple and efficient currency converter built with **HTML**, **CSS**, **JavaSc
 
 ## 🛠️ Dependencies
 
-- 🎨 [Font Awesome](https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.2/css/all.min.css) for icons
+- 🎨 [Font Awesome](https://fontawesome.com/) for icons
 - 🏳️ [Flags API](https://flagsapi.com) for country flags
 - 📈 [Currency API](https://latest.currency-api.pages.dev/v1/currencies) for exchange rates
-
-## 📸 Screenshots
-
-![Screenshot](view.png)
 
 ## ✈️ Enjoy your travels!
 
