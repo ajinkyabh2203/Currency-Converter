@@ -18,9 +18,20 @@ A simple and efficient currency converter built with **HTML**, **CSS**, **JavaSc
     ```
 
 2. **Open `index.html` in your browser**:
-    ```bash
-    open index.html
-    ```
+    - On macOS:
+        ```bash
+        open index.html
+        ```
+
+    - On Windows:
+        ```bash
+        start index.html
+        ```
+
+    - On Linux:
+        ```bash
+        xdg-open index.html
+        ```
 
 3. **Convert currencies**:
     - Enter the amount
